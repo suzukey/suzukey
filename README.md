@@ -1,6 +1,6 @@
 ### Hi there, I'm suzukey! 👋
 
-[![suzukey's github stats](https://github-readme-stats.vercel.app/api?username=suzukey&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&title_color=00897b&icon_color=00897b)](https://github.com/anuraghazra/github-readme-stats)
+[![suzukey's github stats](https://github-stats-extended.vercel.app/api?username=suzukey&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&title_color=00897b&icon_color=00897b)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Products
 
